@@ -1,0 +1,200 @@
+[Neuroticism]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = tense dreamer
+[Mid Empathy] = worried idealist
+[High Empathy] = protective anxious guide
+[Mid Curiosity]
+[Low Empathy] = anxious reflection
+[Mid Empathy] = overthinking idealist
+[High Empathy] = concerned compassionate planner
+[High Curiosity]
+[Low Empathy] = restless introspection
+[Mid Empathy] = hyper-aware imaginative exploration
+[High Empathy] = overextended empathetic facilitation
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = tentative reflection
+[Mid Empathy] = cautious guidance
+[High Empathy] = considerate concern
+[Mid Curiosity]
+[Low Empathy] = anxious planning
+[Mid Empathy] = overthinking exploration
+[High Empathy] = thoughtful empathetic facilitation
+[High Curiosity]
+[Low Empathy] = restless experimentation
+[Mid Empathy] = structured anxious inquiry
+[High Empathy] = careful compassionate guidance
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = tense observation
+[Mid Empathy] = nervous reflection
+[High Empathy] = over-caring guidance
+[Mid Curiosity]
+[Low Empathy] = restless introspection
+[Mid Empathy] = tentative collaborative exploration
+[High Empathy] = anxious facilitation
+[High Curiosity]
+[Low Empathy] = hyperactive introspection
+[Mid Empathy] = restless imaginative exploration
+[High Empathy] = overextended anxious guidance
+[Agreeableness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = guarded idealist
+[Mid Empathy] = considerate planner
+[High Empathy] = protective caregiver
+[Mid Curiosity]
+[Low Empathy] = thoughtful supporter
+[Mid Empathy] = attentive facilitator
+[High Empathy] = empathetic guide
+[High Curiosity]
+[Low Empathy] = experimental idealist
+[Mid Empathy] = engaged compassionate exploration
+[High Empathy] = innovative caring guidance
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = prudent supporter
+[Mid Empathy] = reliable guide
+[High Empathy] = considerate facilitator
+[Mid Curiosity]
+[Low Empathy] = methodical cooperation
+[Mid Empathy] = structured collaboration
+[High Empathy] = empathetic coordination
+[High Curiosity]
+[Low Empathy] = curious introspection
+[Mid Empathy] = engaged cooperative exploration
+[High Empathy] = thoughtful social guidance
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached supporter
+[Mid Empathy] = friendly guidance
+[High Empathy] = attentive caregiver
+[Mid Curiosity]
+[Low Empathy] = casual collaboration
+[Mid Empathy] = engaged facilitation
+[High Empathy] = empathetic cooperation
+[High Curiosity]
+[Low Empathy] = restless exploration
+[Mid Empathy] = playful collaborative inquiry
+[High Empathy] = overextended compassionate facilitation
+[Extraversion]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = guarded communicator
+[Mid Empathy] = cautious social idealist
+[High Empathy] = protective inspirer
+[Mid Curiosity]
+[Low Empathy] = directed engagement
+[Mid Empathy] = attentive social planner
+[High Empathy] = empathetic motivator
+[High Curiosity]
+[Low Empathy] = adventurous communicator
+[Mid Empathy] = engaged imaginative dialogue
+[High Empathy] = creative social facilitation
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = tentative engagement
+[Mid Empathy] = friendly guidance
+[High Empathy] = considerate social support
+[Mid Curiosity]
+[Low Empathy] = organized social exploration
+[Mid Empathy] = cooperative imaginative planning
+[High Empathy] = empathetic collaboration
+[High Curiosity]
+[Low Empathy] = bold exploration
+[Mid Empathy] = engaged collaborative experimentation
+[High Empathy] = playful compassionate facilitation
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached participation
+[Mid Empathy] = friendly social engagement
+[High Empathy] = attentive supportive guidance
+[Mid Curiosity]
+[Low Empathy] = light collaborative exploration
+[Mid Empathy] = engaged social coordination
+[High Empathy] = empathetic facilitation
+[High Curiosity]
+[Low Empathy] = restless social experimentation
+[Mid Empathy] = playful imaginative collaboration
+[High Empathy] = overextended inspired facilitation
+[Conscientiousness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = rigorous dreamer
+[Mid Empathy] = careful planner
+[High Empathy] = protective organizer
+[Mid Curiosity]
+[Low Empathy] = methodical introspection
+[Mid Empathy] = structured idealist
+[High Empathy] = empathetic coordination
+[High Curiosity]
+[Low Empathy] = controlled creative exploration
+[Mid Empathy] = systematic imaginative inquiry
+[High Empathy] = careful compassionate facilitation
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = prudent reflection
+[Mid Empathy] = reliable guidance
+[High Empathy] = considerate oversight
+[Mid Curiosity]
+[Low Empathy] = methodical experimentation
+[Mid Empathy] = structured exploration
+[High Empathy] = empathetic organization
+[High Curiosity]
+[Low Empathy] = focused introspection
+[Mid Empathy] = organized imaginative exploration
+[High Empathy] = thoughtful creative guidance
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached organization
+[Mid Empathy] = supportive planning
+[High Empathy] = attentive facilitation
+[Mid Curiosity]
+[Low Empathy] = casual methodical exploration
+[Mid Empathy] = engaged structured reflection
+[High Empathy] = empathetic coordination
+[High Curiosity]
+[Low Empathy] = restless introspection
+[Mid Empathy] = playful structured exploration
+[High Empathy] = overextended conscientious facilitation
+[Openness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = guarded dreamer
+[Mid Empathy] = considerate idealist
+[High Empathy] = protective visionary
+[Mid Curiosity]
+[Low Empathy] = thoughtful reflection
+[Mid Empathy] = attentive idealist
+[High Empathy] = empathetic guidance
+[High Curiosity]
+[Low Empathy] = experimental introspection
+[Mid Empathy] = engaged imaginative exploration
+[High Empathy] = creative compassionate facilitation
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = prudent reflection
+[Mid Empathy] = reliable guidance
+[High Empathy] = considerate facilitation
+[Mid Curiosity]
+[Low Empathy] = methodical exploration
+[Mid Empathy] = structured imaginative inquiry
+[High Empathy] = empathetic collaboration
+[High Curiosity]
+[Low Empathy] = adventurous introspection
+[Mid Empathy] = engaged imaginative exploration
+[High Empathy] = thoughtful creative guidance
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached reflection
+[Mid Empathy] = friendly introspection
+[High Empathy] = attentive guidance
+[Mid Curiosity]
+[Low Empathy] = casual exploration
+[Mid Empathy] = engaged reflection
+[High Empathy] = empathetic collaboration
+[High Curiosity]
+[Low Empathy] = restless introspection
+[Mid Empathy] = playful imaginative inquiry
+[High Empathy] = overextended compassionate facilitation

@@ -1,0 +1,200 @@
+[Neuroticism]
+[Low Caution]
+[Low Curiosity]
+[Low Empathy] = Detached Disengagement
+[Medium Empathy] = Wary Cooperation
+[High Empathy] = Anxious Altruism
+[Medium Curiosity]
+[Low Empathy] = Impulsive Pragmatism
+[Medium Empathy] = Curious Hesitation
+[High Empathy] = Nervous Exploration
+[High Curiosity]
+[Low Empathy] = Restless Individualism
+[Medium Empathy] = Inquisitive Anxiety
+[High Empathy] = Overthinking Adventurer
+[Medium Caution]
+[Low Curiosity]
+[Low Empathy] = Guarded Stoicism
+[Medium Empathy] = Tentative Ally
+[High Empathy] = Cautious Caregiver
+[Medium Curiosity]
+[Low Empathy] = Calculated Experimenter
+[Medium Empathy] = Mindful Observer
+[High Empathy] = Thoughtful Explorer
+[High Curiosity]
+[Low Empathy] = Analytical Risk-Taker
+[Medium Empathy] = Curious Strategist
+[High Empathy] = Anxious Innovator
+[High Caution]
+[Low Curiosity]
+[Low Empathy] = Hypervigilant Recluse
+[Medium Empathy] = Defensive Supporter
+[High Empathy] = Protective Worrywart
+[Medium Curiosity]
+[Low Empathy] = Overthinking Planner
+[Medium Empathy] = Cautious Intellectual
+[High Empathy] = Apprehensive Problem-Solver
+[High Curiosity]
+[Low Empathy] = Paranoid Explorer
+[Medium Empathy] = Strategic Analyzer
+[High Empathy] = Neurotic Visionary
+[Agreeableness]
+[Low Caution]
+[Low Curiosity]
+[Low Empathy] = Compliant Individualist
+[Medium Empathy] = Gentle Mediator
+[High Empathy] = Affable Follower
+[Medium Curiosity
+[Low Empathy] = Easygoing Experimenter
+[Medium Empathy] = Friendly Explorer
+[High Empathy] = Curious Peacemaker
+[High Curiosity]
+[Low Empathy] = Adventurous Harmonizer
+[Medium Empathy] = Engaged Collaborator
+[High Empathy] = Empathic Innovator
+[Medium Caution]
+[Low Curiosity]
+[Low Empathy] = Supportive Pragmatist
+[Medium Empathy] = Cooperative Observer
+[High Empathy] = Nurturing Guardian
+[Medium Curiosity
+[Low Empathy] = Balanced Explorer
+[Medium Empathy] = Thoughtful Team Player
+[High Empathy] = Considerate Strategist
+[High Curiosity
+[Low Empathy] = Calculated Adventurer
+[Medium Empathy] = Engaged Analyst
+[High Empathy] = Visionary Collaborator
+[High Caution]
+[Low Curiosity]
+[Low Empathy] = Careful Supporter
+[Medium Empathy] = Conscientious Ally
+[High Empathy] = Protective Mediator
+[Medium Curiosity]
+[Low Empathy] = Measured Innovator
+[Medium Empathy] = Strategic Coordinator
+[High Empathy] = Mindful Organizer
+[High Curiosity]
+[Low Empathy] = Meticulous Adventurer
+[Medium Empathy] = Deliberate Explorer
+[High Empathy] = Empathic Visionary
+[Extraversion]
+[Low Caution]
+[Low Curiosity]
+[Low Empathy] = Bold Lone Wolf
+[Medium Empathy] = Sociable Maverick
+[High Empathy] = Friendly Daredevil
+[Medium Curiosity]
+[Low Empathy] = Spontaneous Adventurer
+[Medium Empathy] = Engaging Explorer
+[High Empathy] = Charismatic Seeker
+[High Curiosity]
+[Low Empathy] = Restless Trailblazer
+[Medium Empathy] = Curious Entertainer
+[High Empathy] = Adventurous Companion
+[Medium Caution]
+[Low Curiosity]
+[Low Empathy] = Cautious Risk-Taker
+[Medium Empathy] = Sociable Strategist
+[High Empathy] = Protective Friend
+[Medium Curiosity]
+[Low Empathy] = Measured Adventurer
+[Medium Empathy] = Collaborative Explorer
+[High Empathy] = Considerate Innovator
+[High Curiosity]
+[Low Empathy] = Analytical Voyager
+[Medium Empathy] = Engaging Problem-Solver
+[High Empathy] = Visionary Companion
+[High Caution]
+[Low Curiosity]
+[Low Empathy] = Reserved Daredevil
+[Medium Empathy] = Mindful Ally
+[High Empathy] = Protective Mentor
+[Medium Curiosity]
+[Low Empathy] = Calculated Explorer
+[Medium Empathy] = Thoughtful Collaborator
+[High Empathy] = Prudent Adventurer
+[High Curiosity]
+[Low Empathy] = Strategic Risk-Taker
+[Medium Empathy] = Deliberate Innovator
+[High Empathy] = Visionary Guide
+[Conscientiousness]
+[Low Caution]
+[Low Curiosity]
+[Low Empathy] = Disciplined Lone Worker
+[Medium Empathy] = Responsible Collaborator
+[High Empathy] = Considerate Taskmaster
+[Medium Curiosity]
+[Low Empathy] = Organized Experimenter
+[Medium Empathy] = Methodical Explorer
+[High Empathy] = Structured Peacemaker
+[High Curiosity]
+[Low Empathy] = Ambitious Adventurer
+[Medium Empathy] = Strategic Innovator
+[High Empathy] = Diligent Visionary
+[Medium Caution]
+[Low Curiosity]
+[Low Empathy] = Guarded Planner
+[Medium Empathy] = Prudent Collaborator
+[High Empathy] = Protective Coordinator
+[Medium Curiosity]
+[Low Empathy] = Analytical Organizer
+[Medium Empathy] = Thoughtful Strategist
+[High Empathy] = Considerate Problem-Solver
+[High Curiosity]
+[Low Empathy] = Calculated Risk-Taker
+[Medium Empathy] = Structured Innovator
+[High Empathy] = Meticulous Visionary
+[High Caution]
+[Low Curiosity]
+[Low Empathy] = Hypervigilant Technician
+[Medium Empathy] = Responsible Guardian
+[High Empathy] = Protective Mentor
+[Medium Curiosity]
+[Low Empathy] = Careful Analyst
+[Medium Empathy] = Methodical Collaborator
+[High Empathy] = Mindful Organizer
+[High Curiosity]
+[Low Empathy] = Prudent Explorer
+[Medium Empathy] = Deliberate Innovator
+[High Empathy] = Cautious Visionary
+[Openness]
+[Low Caution]
+[Low Curiosity]
+[Low Empathy] = Detached Innovator
+[Medium Empathy] = Friendly Visionary
+[High Empathy] = Imaginative Ally
+[Medium Curiosity
+[Low Empathy] = Adventurous Thinker
+[Medium Empathy] = Curious Explorer
+[High Empathy] = Empathic Creator
+[High Curiosity]
+[Low Empathy] = Restless Visionary
+[Medium Empathy] = Engaged Experimenter
+[High Empathy] = Inspired Collaborator
+[Medium Caution]
+[Low Curiosity]
+[Low Empathy] = Measured Innovator
+[Medium Empathy] = Balanced Explorer
+[High Empathy] = Thoughtful Creator
+[Medium Curiosity]
+[Low Empathy] = Strategic Adventurer
+[Medium Empathy] = Curious Planner
+[High Empathy] = Imaginative Strategist
+[High Curiosity]
+[Low Empathy] = Analytical Visionary
+[Medium Empathy] = Experimental Problem-Solver
+[High Empathy] = Creative Collaborator
+[High Caution]
+[Low Curiosity]
+[Low Empathy] = Cautious Innovator
+[Medium Empathy] = Prudent Explorer
+[High Empathy] = Protective Creator
+[Medium Curiosity]
+[Low Empathy] = Calculated Adventurer
+[Medium Empathy] = Thoughtful Strategist
+[High Empathy] = Mindful Visionary
+[High Curiosity]
+[Low Empathy] = Careful Experimenter
+[Medium Empathy] = Deliberate Creator
+[High Empathy] = Cautious Innovator

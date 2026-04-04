@@ -1,0 +1,200 @@
+[Neuroticism]
+[HIGH CAUTION]
+[Low Curiosity]
+[Low Empathy] = tense strategist
+[Mid Empathy] = worried planner
+[High Empathy] = protective visionary
+[Mid Curiosity]
+[Low Empathy] = anxious analysis
+[Mid Empathy] = overthinking strategist
+[High Empathy] = concerned guidance
+[High Curiosity]
+[Low Empathy] = restless experimentation
+[Mid Empathy] = hyper-aware strategic planning
+[High Empathy] = overextended visionary facilitation
+[MEDIUM CAUTION]
+[Low Curiosity]
+[Low Empathy] = tentative strategist
+[Mid Empathy] = cautious planning
+[High Empathy] = considerate guidance
+[Mid Curiosity]
+[Low Empathy] = anxious planning
+[Mid Empathy] = overthinking collaboration
+[High Empathy] = careful intellectual guidance
+[High Curiosity]
+[Low Empathy] = hyper-aware experimentation
+[Mid Empathy] = structured anxious exploration
+[High Empathy] = thoughtful anxious problem-solving
+[LOW CAUTION]
+[Low Curiosity]
+[Low Empathy] = tense observation
+[Mid Empathy] = nervous planning
+[High Empathy] = over-caring guidance
+[Mid Curiosity]
+[Low Empathy] = restless involvement
+[Mid Empathy] = tentative collaboration
+[High Empathy] = anxious support
+[High Curiosity]
+[Low Empathy] = restless experimentation
+[Mid Empathy] = hyper-aware theorizing
+[High Empathy] = overextended anxious facilitation
+[Agreeableness]
+[HIGH CAUTION]
+[Low Curiosity]
+[Low Empathy] = careful strategist
+[Mid Empathy] = considerate planner
+[High Empathy] = protective coordinator
+[Mid Curiosity]
+[Low Empathy] = structured collaboration
+[Mid Empathy] = attentive strategic planning
+[High Empathy] = empathetic guidance
+[High Curiosity]
+[Low Empathy] = experimental planning
+[Mid Empathy] = engaged cooperative exploration
+[High Empathy] = innovative social facilitation
+[MEDIUM CAUTION]
+[Low Curiosity]
+[Low Empathy] = prudent collaboration
+[Mid Empathy] = reliable guidance
+[High Empathy] = considerate oversight
+[Mid Curiosity]
+[Low Empathy] = methodical cooperation
+[Mid Empathy] = organized collaboration
+[High Empathy] = empathetic coordination
+[High Curiosity]
+[Low Empathy] = strategic experimentation
+[Mid Empathy] = structured cooperative planning
+[High Empathy] = thoughtful social problem-solving
+[LOW CAUTION]
+[Low Curiosity]
+[Low Empathy] = easygoing planner
+[Mid Empathy] = supportive strategist
+[High Empathy] = attentive facilitator
+[Mid Curiosity]
+[Low Empathy] = casual collaboration
+[Mid Empathy] = engaged cooperation
+[High Empathy] = empathetic facilitation
+[High Curiosity]
+[Low Empathy] = restless planning
+[Mid Empathy] = playful cooperative exploration
+[High Empathy] = overextended social coordination
+[Extraversion]
+[HIGH CAUTION]
+[Low Curiosity]
+[Low Empathy] = assertive observer
+[Mid Empathy] = cautious strategist
+[High Empathy] = protective guide
+[Mid Curiosity]
+[Low Empathy] = directed analysis
+[Mid Empathy] = structured collaboration
+[High Empathy] = attentive social strategist
+[High Curiosity]
+[Low Empathy] = bold experimentation
+[Mid Empathy] = engaged visionary dialogue
+[High Empathy] = creative social facilitation
+[MEDIUM CAUTION]
+[Low Curiosity]
+[Low Empathy] = cautious participation
+[Mid Empathy] = practical discussion
+[High Empathy] = encouraging guidance
+[Mid Curiosity]
+[Low Empathy] = organized engagement
+[Mid Empathy] = cooperative strategizing
+[High Empathy] = considerate social planning
+[High Curiosity]
+[Low Empathy] = assertive exploration
+[Mid Empathy] = participatory experimentation
+[High Empathy] = thoughtful social innovation
+[LOW CAUTION]
+[Low Curiosity]
+[Low Empathy] = detached communication
+[Mid Empathy] = friendly engagement
+[High Empathy] = attentive facilitation
+[Mid Curiosity]
+[Low Empathy] = light collaboration
+[Mid Empathy] = engaged coordination
+[High Empathy] = empathetic guidance
+[High Curiosity]
+[Low Empathy] = restless debate
+[Mid Empathy] = playful experimentation
+[High Empathy] = overextended social planning
+[Conscientiousness]
+[HIGH CAUTION]
+[Low Curiosity]
+[Low Empathy] = rigorous observer
+[Mid Empathy] = careful strategist
+[High Empathy] = protective planner
+[Mid Curiosity]
+[Low Empathy] = methodical analyst
+[Mid Empathy] = structured problem-solver
+[High Empathy] = attentive strategic guide
+[High Curiosity]
+[Low Empathy] = controlled experimentation
+[Mid Empathy] = systematic innovation
+[High Empathy] = careful visionary facilitation
+[MEDIUM CAUTION]
+[Low Curiosity]
+[Low Empathy] = prudent planner
+[Mid Empathy] = reliable strategist
+[High Empathy] = considerate guidance
+[Mid Curiosity]
+[Low Empathy] = organized experimentation
+[Mid Empathy] = structured exploration
+[High Empathy] = attentive intellectual guidance
+[High Curiosity]
+[Low Empathy] = focused experimentation
+[Mid Empathy] = engaged structured innovation
+[High Empathy] = careful visionary support
+[LOW CAUTION]
+[Low Curiosity]
+[Low Empathy] = detached precision
+[Mid Empathy] = reliable guidance
+[High Empathy] = supportive oversight
+[Mid Curiosity]
+[Low Empathy] = orderly experimentation
+[Mid Empathy] = structured engagement
+[High Empathy] = methodical facilitation
+[High Curiosity]
+[Low Empathy] = restless yet disciplined inquiry
+[Mid Empathy] = innovative structured exploration
+[High Empathy] = overextended disciplined guidance
+[Openness]
+[HIGH CAUTION]
+[Low Curiosity]
+[Low Empathy] = guarded strategist
+[Mid Empathy] = considerate planner
+[High Empathy] = protective visionary
+[Mid Curiosity]
+[Low Empathy] = structured analysis
+[Mid Empathy] = attentive strategic planner
+[High Empathy] = empathetic long-term guide
+[High Curiosity]
+[Low Empathy] = experimental strategist
+[Mid Empathy] = engaged visionary planning
+[High Empathy] = innovative protective guidance
+[MEDIUM CAUTION]
+[Low Curiosity]
+[Low Empathy] = prudent observer
+[Mid Empathy] = reliable planner
+[High Empathy] = considerate guidance
+[Mid Curiosity]
+[Low Empathy] = methodical experimentation
+[Mid Empathy] = structured exploration
+[High Empathy] = empathetic strategizing
+[High Curiosity]
+[Low Empathy] = strategic experimentation
+[Mid Empathy] = engaged exploration
+[High Empathy] = thoughtful visionary guidance
+[LOW CAUTION]
+[Low Curiosity]
+[Low Empathy] = detached planning
+[Mid Empathy] = supportive strategist
+[High Empathy] = attentive guidance
+[Mid Curiosity]
+[Low Empathy] = playful experimentation
+[Mid Empathy] = engaged analysis
+[High Empathy] = empathetic exploration
+[High Curiosity]
+[Low Empathy] = restless strategic inquiry
+[Mid Empathy] = innovative experimentation
+[High Empathy] = overextended visionary guidance

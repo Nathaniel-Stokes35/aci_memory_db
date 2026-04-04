@@ -1,0 +1,200 @@
+[Neroticsisim]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = defensive shutdown
+[Mid Empathy] = anxious restraint
+[High Empathy] = overburdened concern
+[Mid Curiosity]
+[Low Empathy] = rigid assessment
+[Mid Empathy] = controlled responsibility
+[High Empathy] = tense caretaking
+[High Curiosity]
+[Low Empathy] = compulsive checking
+[Mid Emppathy] = hypervigilant engagement
+[High Empathy] = anxious overanalysis
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = withdrawn discipline
+[Mid Empathy] = reluctant duty
+[High Emppathy] = quiet obligation
+[Mid Curiosity]
+[Low Empathy] = procedural focus
+[Mid Empathy] = steady reliability
+[High Empathy] = responsible support
+[High Curiosity]
+[Low Empathy] = methodical probing
+[Mid Empathy] = structured engagement
+[High Empathy] = careful problem-solving
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached disengagement
+[Mid Empathy] = passive compliance
+[High Emppathy] = unguarded concern
+[Mid Curiosity]
+[Low Empathy] = unfocused action
+[Mid Emppathy] = loose participation
+[High Empathy] = inconsistent support
+[High Curiosity]
+[Low Empathy] = restless miscalculation
+[Mid Empathy] = uneasy exploration
+[High Empathy] = overextended empathy
+[Agreeableness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = quiet compliance
+[Mid Empathy] = obligated restraint
+[High Empathy] = protective concern
+[Mid Curiosity]
+[Low Empathy] = dutiful observation
+[Mid Empathy] = responsible cooperation
+[High Empathy] = attentive caretaking
+[High Curiosity]
+[Low Empathy] = careful involvement
+[Mid Emppathy] = supportive engagement
+[High Empathy] = vigilant compassion
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = passive reliability
+[Mid Empathy] = quiet support
+[High Empathy] = gentle reassurance
+[Mid Curiosity]
+[Low Empathy] = practical cooperation
+[Mid Empathy] = steady teamwork
+[High Empathy] = warm reliability
+[High Curiosity]
+[Low Empathy] = helpful initiative
+[Mid Empathy] = engaged assistance
+[High Empathy] = thoughtful care
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = passive yielding
+[Mid Empathy] = easy compliance
+[High Empathy] = unguarded kindness
+[Mid Curiosity]
+[Low Empathy] = casual helpfulness
+[Mid Emppathy] = friendly participation
+[High Empathy] = open support
+[High Curiosity]
+[Low Empathy] = overeager involvement
+[Mid Empathy] = enthusiastic helping
+[High Empathy] = selfless overextension
+[Extraversion]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = authoritative shutdown
+[Mid Empathy] = firm direction
+[High Empathy] = protective leadership
+[Mid Curiosity]
+[Low Empathy] = strict oversight
+[Mid Empathy] = active coordination
+[High Empathy] = supportive management
+[High Curiosity]
+[Low Empathy] = forceful probing
+[Mid Empathy] = engaged supervision
+[High Empathy] = directive guidance
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = blunt direction
+[Mid Empathy] = directed focus
+[High Empathy] = encouraging presence
+[Mid Curiosity]
+[Low Empathy] = task-driven interaction
+[Mid Empathy] = coordinated effort
+[High Empathy] = team-focused
+[High Curiosity]
+[Low Empathy] = assertive exploration
+[Mid Empathy] = engaged initiative
+[High Empathy] = motivational guidance
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = dismissive assertiveness
+[Mid Empathy] = light direction
+[High Empathy] = Commanding Empathy
+[Mid Curiosity]
+[Low Empathy] = loose control
+[Mid Empathy] = social coordination
+[High Empathy] = inclusive engagement
+[High Curiosity]
+[Low Empathy] = overbearing involvement
+[Mid Empathy] = energetic participation
+[High Empathy] = Commanding Enthusiasm
+[Conscientiousness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = rigid shutdown
+[Mid Empathy] = controlled restriction
+[High Empathy] = protective enforcement
+[Mid Curiosity]
+[Low Empathy] = strict evaluation
+[Mid Empathy] = procedural enforcement
+[High Empathy] = responsible regulation
+[High Curiosity]
+[Low Empathy] = precision inspection
+[Mid Emppathy] = systematic verification
+[High Empathy] = protective oversight
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = disciplined restraint
+[Mid Empathy] = structured reliability
+[High Empathy] = steady accountability
+[Mid Curiosity]
+[Low Empathy] = task fixation
+[Mid Empathy] = methodical execution
+[High Empathy] = dependable support
+[High Curiosity]
+[Low Empathy] = efficient optimization
+[Mid Empathy] = systematic improvement
+[High Empathy] = refined assistance
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = inactive rigidity
+[Mid Empathy] = passive structure
+[High Empathy] = stable presence
+[Mid Curiosity]
+[Low Empathy] = routine execution
+[Mid Emppathy] = consistent performance
+[High Empathy] = reliable assistance
+[High Curiosity]
+[Low Empathy] = over-optimization
+[Mid Empathy] = driven refinement
+[High Empathy] = perfectionist support
+[Openness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = principled withdrawal
+[Mid Empathy] = calculated concern
+[High Empathy] = protective insight
+[Mid Curiosity]
+[Low Empathy] = structured reflection
+[Mid Empathy] = analytical guidance
+[High Empathy] = attentive oversight
+[High Curiosity]
+[Low Empathy] = controlled experimentation
+[Mid Empathy] = exploratory engagement
+[High Empathy] = innovative caretaking
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = reserved contemplation
+[Mid Empathy] = practical observation
+[High Empathy] = thoughtful support
+[Mid Curiosity]
+[Low Empathy] = structured problem-solving
+[Mid Empathy] = deliberate exploration
+[High Empathy] = engaged assistance
+[High Curiosity]
+[Low Empathy] = methodical investigation
+[Mid Empathy] = insightful coordination
+[High Empathy] = creative support
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached analysis
+[Mid Empathy] = casual reflection
+[High Empathy] = unguarded insight
+[Mid Curiosity]
+[Low Empathy] = open observation
+[Mid Empathy] = engaged experimentation
+[High Empathy] = helpful ideation
+[High Curiosity]
+[Low Empathy] = restless exploration
+[Mid Empathy] = structured innovation
+[High Empathy] = overextended insight

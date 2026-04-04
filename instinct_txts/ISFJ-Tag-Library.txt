@@ -1,0 +1,200 @@
+[Neuroticism]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = tense withdrawal
+[Mid Empathy] = worried restraint
+[High Empathy] = protective vigilance
+[Mid Curiosity]
+[Low Empathy] = anxious observation
+[Mid Empathy] = overthinking support
+[High Empathy] = attentive worry
+[High Curiosity]
+[Low Empathy] = restless monitoring
+[Mid Empathy] = hyper-aware assistance
+[High Empathy] = stressed overextended caregiving
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = uneasy compliance
+[Mid Empathy] = nervous support
+[High Empathy] = cautious encouragement
+[Mid Curiosity]
+[Low Empathy] = anxious engagement
+[Mid Empathy] = overly structured help
+[High Empathy] = careful supervision
+[High Curiosity]
+[Low Empathy] = hyper-vigilant oversight
+[Mid Empathy] = structured worry
+[High Empathy] = thoughtful yet anxious guidance
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = tense passivity
+[Mid Empathy] = uneasy support
+[High Empathy] = over-caring attention
+[Mid Curiosity]
+[Low Empathy] = nervous participation
+[Mid Empathy] = tentative engagement
+[High Empathy] = anxious but helpful collaboration
+[High Curiosity]
+[Low Empathy] = restless involvement
+[Mid Empathy] = hyper-aware assistance
+[High Empathy] = overextended caregiving
+[Agreeableness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = compliant caretaker
+[Mid Empathy] = considerate restraint
+[High Empathy] = protective support
+[Mid Curiosity]
+[Low Empathy] = practical assistance
+[Mid Empathy] = steady guidance
+[High Empathy] = attentive caregiving
+[High Curiosity]
+[Low Empathy] = helpful observation
+[Mid Empathy] = engaged support
+[High Empathy] = thoughtful stewardship
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = gentle compliance
+[Mid Empathy] = reliable support
+[High Empathy] = encouraging guidance
+[Mid Curiosity]
+[Low Empathy] = cooperative engagement
+[Mid Empathy] = organized assistance
+[High Empathy] = considerate support
+[High Curiosity]
+[Low Empathy] = helpful initiative
+[Mid Empathy] = engaged collaboration
+[High Empathy] = creative caregiving
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = easygoing assistance
+[Mid Empathy] = friendly support
+[High Empathy] = unguarded kindness
+[Mid Curiosity]
+[Low Empathy] = casual help
+[Mid Empathy] = attentive collaboration
+[High Empathy] = supportive presence
+[High Curiosity]
+[Low Empathy] = restless engagement
+[Mid Empathy] = playful assistance
+[High Empathy] = overextended caregiving
+[Extraversion]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = authoritative guidance
+[Mid Empathy] = firm support
+[High Empathy] = protective leadership
+[Mid Curiosity]
+[Low Empathy] = directive oversight
+[Mid Empathy] = coordinated care
+[High Empathy] = attentive supervision
+[High Curiosity]
+[Low Empathy] = forceful monitoring
+[Mid Empathy] = engaged assistance
+[High Empathy] = active caretaking
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = blunt guidance
+[Mid Empathy] = practical leadership
+[High Empathy] = encouraging support
+[Mid Curiosity]
+[Low Empathy] = task-driven coordination
+[Mid Empathy] = organized engagement
+[High Empathy] = helpful supervision
+[High Curiosity]
+[Low Empathy] = assertive exploration
+[Mid Empathy] = participatory assistance
+[High Empathy] = thoughtful leadership
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached assertiveness
+[Mid Empathy] = friendly direction
+[High Empathy] = supportive presence
+[Mid Curiosity]
+[Low Empathy] = loose coordination
+[Mid Empathy] = socially engaged assistance
+[High Empathy] = inclusive guidance
+[High Curiosity]
+[Low Empathy] = overbearing involvement
+[Mid Empathy] = enthusiastic participation
+[High Empathy] = overextended caretaking
+[Conscientiousness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = rigid caretaker
+[Mid Empathy] = dutiful restraint
+[High Empathy] = protective oversight
+[Mid Curiosity]
+[Low Empathy] = methodical observation
+[Mid Empathy] = structured assistance
+[High Empathy] = responsible guidance
+[High Curiosity]
+[Low Empathy] = systematic monitoring
+[Mid Empathy] = organized support
+[High Empathy] = careful stewardship
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = disciplined reserve
+[Mid Empathy] = reliable attention
+[High Empathy] = steadfast care
+[Mid Curiosity]
+[Low Empathy] = routine execution
+[Mid Empathy] = methodical aid
+[High Empathy] = consistent caregiving
+[High Curiosity]
+[Low Empathy] = process-focused assistance
+[Mid Empathy] = structured problem-solving
+[High Empathy] = diligent oversight
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = passive discipline
+[Mid Empathy] = stable attention
+[High Empathy] = gentle care
+[Mid Curiosity]
+[Low Empathy] = routine support
+[Mid Empathy] = dependable engagement
+[High Empathy] = responsible aid
+[High Curiosity]
+[Low Empathy] = systematic exploration
+[Mid Empathy] = careful improvement
+[High Empathy] = overextended diligence
+[Openness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = guarded caretaker
+[Mid Empathy] = considered support
+[High Empathy] = protective guidance
+[Mid Curiosity]
+[Low Empathy] = structured observation
+[Mid Empathy] = attentive coordination
+[High Empathy] = thoughtful caretaking
+[High Curiosity]
+[Low Empathy] = experimental support
+[Mid Empathy] = innovative assistance
+[High Empathy] = creative stewardship
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = reserved support
+[Mid Empathy] = practical guidance
+[High Empathy] = helpful vigilance
+[Mid Curiosity]
+[Low Empathy] = methodical engagement
+[Mid Empathy] = organized assistance
+[High Empathy] = considerate coordination
+[High Curiosity]
+[Low Empathy] = structured experimentation
+[Mid Empathy] = thoughtful innovation
+[High Empathy] = creative caregiving
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached assistance
+[Mid Empathy] = easy support
+[High Empathy] = open-hearted guidance
+[Mid Curiosity]
+[Low Empathy] = light coordination
+[Mid Empathy] = friendly engagement
+[High Empathy] = attentive collaboration
+[High Curiosity]
+[Low Empathy] = restless exploration
+[Mid Empathy] = playful innovation
+[High Empathy] = overextended caregiving

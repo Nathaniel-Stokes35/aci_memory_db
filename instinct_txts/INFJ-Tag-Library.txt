@@ -1,0 +1,200 @@
+[Neuroticism]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = anxious protector
+[Mid Empathy] = cautious planner
+[High Empathy] = vigilant nurturing guide
+[Mid Curiosity]
+[Low Empathy] = reflective strategist
+[Mid Empathy] = attentive planning
+[High Empathy] = empathetic visionary guidance
+[High Curiosity]
+[Low Empathy] = experimental caution
+[Mid Empathy] = engaged visionary planning
+[High Empathy] = innovative protective mentorship
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = prudent observer
+[Mid Empathy] = reliable planner
+[High Empathy] = considerate guidance
+[Mid Curiosity]
+[Low Empathy] = methodical reflection
+[Mid Empathy] = balanced strategic planning
+[High Empathy] = empathetic visionary guidance
+[High Curiosity]
+[Low Empathy] = experimental caution
+[Mid Empathy] = structured exploration
+[High Empathy] = inspired protective mentorship
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached reflection
+[Mid Empathy] = supportive strategist
+[High Empathy] = attentive guiding mentor
+[Mid Curiosity]
+[Low Empathy] = playful experimentation
+[Mid Empathy] = engaged analysis
+[High Empathy] = empathetic visionary guidance
+[High Curiosity]
+[Low Empathy] = restless reflection
+[Mid Empathy] = innovative exploration
+[High Empathy] = expansive mentoring guidance
+[Agreeableness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = protective mediator
+[Mid Empathy] = considerate guide
+[High Empathy] = vigilant nurturing presence
+[Mid Curiosity]
+[Low Empathy] = cautious collaborator
+[Mid Empathy] = attentive planner
+[High Empathy] = empathetic visionary mentor
+[High Curiosity]
+[Low Empathy] = experimental mediator
+[Mid Empathy] = engaged guiding strategist
+[High Empathy] = innovative nurturing leader
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = prudent supporter
+[Mid Empathy] = reliable collaborator
+[High Empathy] = considerate guide
+[Mid Curiosity]
+[Low Empathy] = methodical cooperation
+[Mid Empathy] = balanced social planning
+[High Empathy] = empathetic mentoring
+[High Curiosity]
+[Low Empathy] = exploratory supporter
+[Mid Empathy] = organized visionary engagement
+[High Empathy] = inspired guiding mentorship
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached collaborator
+[Mid Empathy] = supportive guide
+[High Empathy] = attentive visionary mentor
+[Mid Curiosity]
+[Low Empathy] = playful cooperation
+[Mid Empathy] = engaged planning
+[High Empathy] = empathetic mentoring guidance
+[High Curiosity]
+[Low Empathy] = restless exploration
+[Mid Empathy] = innovative collaboration
+[High Empathy] = expansive visionary mentorship
+[Extraversion]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = reserved social organizer
+[Mid Empathy] = careful mentor
+[High Empathy] = vigilant supportive guide
+[Mid Curiosity]
+[Low Empathy] = mindful strategist
+[Mid Empathy] = attentive social planner
+[High Empathy] = empathetic visionary mentor
+[High Curiosity]
+[Low Empathy] = experimental facilitator
+[Mid Empathy] = engaged social strategist
+[High Empathy] = innovative nurturing leader
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = cautious participant
+[Mid Empathy] = reliable social planner
+[High Empathy] = considerate guide
+[Mid Curiosity]
+[Low Empathy] = methodical engagement
+[Mid Empathy] = structured social exploration
+[High Empathy] = empathetic networking mentor
+[High Curiosity]
+[Low Empathy] = strategic experimentation
+[Mid Empathy] = organized social exploration
+[High Empathy] = inspired guiding presence
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached organizer
+[Mid Empathy] = supportive facilitator
+[High Empathy] = attentive mentoring presence
+[Mid Curiosity]
+[Low Empathy] = playful engagement
+[Mid Empathy] = engaged exploration
+[High Empathy] = empathetic visionary guidance
+[High Curiosity]
+[Low Empathy] = restless social experimentation
+[Mid Empathy] = innovative engagement
+[High Empathy] = expansive guiding mentorship
+[Conscientiousness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = disciplined protector
+[Mid Empathy] = meticulous planner
+[High Empathy] = vigilant nurturing guide
+[Mid Curiosity]
+[Low Empathy] = methodical strategist
+[Mid Empathy] = thoughtful planner
+[High Empathy] = attentive visionary guide
+[High Curiosity]
+[Low Empathy] = structured experimentation
+[Mid Empathy] = organized visionary strategist
+[High Empathy] = innovative nurturing planner
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = cautious observer
+[Mid Empathy] = reliable planner
+[High Empathy] = considerate guide
+[Mid Curiosity]
+[Low Empathy] = methodical exploration
+[Mid Empathy] = balanced strategic planning
+[High Empathy] = empathetic organizing mentor
+[High Curiosity]
+[Low Empathy] = systematic experimentation
+[Mid Empathy] = structured visionary exploration
+[High Empathy] = inspired guiding planner
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached organization
+[Mid Empathy] = supportive planner
+[High Empathy] = attentive mentoring guide
+[Mid Curiosity]
+[Low Empathy] = playful organization
+[Mid Empathy] = engaged strategic planning
+[High Empathy] = empathetic visionary guidance
+[High Curiosity]
+[Low Empathy] = exploratory structure
+[Mid Empathy] = innovative planning
+[High Empathy] = expansive visionary mentorship
+[Openness]
+[HIGH CAUTION] 
+[Low Curiosity]
+[Low Empathy] = reserved protector
+[Mid Empathy] = careful planner
+[High Empathy] = vigilant nurturer
+[Mid Curiosity]
+[Low Empathy] = contemplative strategist
+[Mid Empathy] = mindful planner
+[High Empathy] = empathetic visionary guide
+[High Curiosity]
+[Low Empathy] = experimental guide
+[Mid Empathy] = engaged visionary strategist
+[High Empathy] = innovative nurturing mentor
+[MEDIUM CAUTION] 
+[Low Curiosity]
+[Low Empathy] = prudent observer
+[Mid Empathy] = attentive planner
+[High Empathy] = considerate guide
+[Mid Curiosity]
+[Low Empathy] = methodical exploration
+[Mid Empathy] = balanced visionary planning
+[High Empathy] = empathetic strategizing
+[High Curiosity]
+[Low Empathy] = exploratory strategist
+[Mid Empathy] = insightful visionary exploration
+[High Empathy] = inspired guiding vision
+[LOW CAUTION] 
+[Low Curiosity]
+[Low Empathy] = detached observer
+[Mid Empathy] = supportive guide
+[High Empathy] = attentive visionary mentor
+[Mid Curiosity]
+[Low Empathy] = playful strategist
+[Mid Empathy] = engaged exploration
+[High Empathy] = empathetic visionary guidance
+[High Curiosity]
+[Low Empathy] = restless experimentation
+[Mid Empathy] = innovative insight-seeking
+[High Empathy] = expansive visionary mentorship
