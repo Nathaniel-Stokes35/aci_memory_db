@@ -1,38 +1,25 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program is mostly focused on the memory core of individual AI programs in my future structure. Using local repositories as holders for simple information the SQL is designed to be streamlined and easily accessible. This particular code is a barebones example of this system where a user can input MBTI values, Big Five Scores, and Event Perceptions to generate a tag for a Future Language model. These tags represent the "instinct" of the AI and are designed to provide nuanced context to dialog. You launch the program then set the values you desire to see the tag for, you select "search tags" and a SQL command will pull the relevant tag associated with those inputs. 
 
-{Provide a description of the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-4RgNT22Rm4)
 
 # Relational Database
 
-{Describe the relational database you are using.}
-
+The program focuses mainly on "Personality_tags" which is a Table that holds profile ID's comprised of MBTI personality Types, paired with an OCEAN big Five, then placed against an event's "Caution", "Curiosity", and "Empathy" Level to define a relevant tag for a future LLM.
 {Describe the structure (tables) of the relational database that you created.}
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
-
+I used Android studio in the beginning but finished in VS Code.
+I started in Kotlin, learning how to bridge the SQL scripts in an android environment but I eventually wrote the advanced queries in Python which was more familiar.
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Kotlin](http://url.link.goes.here)
+- [Kivy Tutorial](https://www.geeksforgeeks.org/python/kivy-tutorial/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+Filling out the other tables with real events will be a necessity.
+Cleaning up the UI and having it play as the ACI generator will need so work.
+Bringing the backend deeper into the SQL queries instead of simple user controlled slide bars are also a must.
