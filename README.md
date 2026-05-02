@@ -1,6 +1,6 @@
 # Overview
 
-This program is mostly focused on the memory core of individual AI programs in my future structure. Using local repositories as holders for simple information the SQL is designed to be streamlined and easily accessible. This particular code is a barebones example of this system where a user can input MBTI values, Big Five Scores, and Event Perceptions to generate a tag for a Future Language model. These tags represent the "instinct" of the AI and are designed to provide nuanced context to dialog. You launch the program then set the values you desire to see the tag for, you select "search tags" and a SQL command will pull the relevant tag associated with those inputs. 
+This project is a prototype of a structured data classification system designed to map psychological and contextual inputs into deterministic “personality-event tags” using a relational database. The system explores how structured inputs (MBTI, Big Five personality traits, and event-based perception scores) can be stored, queried, and transformed into classification outputs that could later be used as conditioning signals for a downstream language model. This repository represents the backend data modeling and tagging layer of a larger multi-component system architecture. A separate frontend prototype (Kotlin-based UI) explores the user interaction layer of this system.
 
 [Software Demo Video](https://youtu.be/-4RgNT22Rm4)
 
